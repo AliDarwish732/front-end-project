@@ -1,0 +1,198 @@
+
+
+footer{
+    
+
+    color: rgb(0, 136, 255);
+    text-align: center;
+    
+
+    
+    font-size: large;
+}
+header{
+    background-color: rgb(35, 12, 2);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    position: fixed;
+}
+.mypage{
+    background-color: rgb(255, 196, 227);
+    text-align: center;
+    color: black;
+    float: center;
+    width:100%;
+    
+}
+
+.signin{
+    background-color: black;
+    color: azure;
+    text-align: center;
+    float: center;
+    width:100%;
+    margin: auto;
+}
+
+input:hover{
+    font-size: x-large;
+}
+header:hover{
+    background-color: rgb(242, 6, 6);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+input[type="submit"]:hover{
+    background-color: green;
+    color: rgb(237, 237, 237);
+}
+input[type="reset"]:hover{
+    background-color: rgb(128, 0, 0);
+    color: rgb(237, 237, 237);
+}
+.mypage:hover{
+    background-image: url(metallic-sculpted-hands-on-a-white-background-minimal-art.jpg);
+    background-size: 1512px 482px;
+    
+    
+}
+footer:hover{
+    background-color: rgb(242, 6, 6);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+body.b{
+    background-color: #ffffff;
+    
+}
+.mypage a:hover{
+    font-size: xx-large;
+}
+.h:hover{
+    border:3px;
+    font-size: 100%;
+    width: 500px;
+    height: 400px;
+font-size: large;
+    
+    background-color: rgb(223, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.olul{
+    background-color: #000000;
+    color: rgb(255, 0, 0);
+    width: 50%;
+    float: left;
+   margin: auto;
+   height: 500px;
+   border: 1cm red;
+ font-family: 'Courier New', Courier, monospace;
+ 
+
+}
+.welcomemodel{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    width: 100%;
+    color: azure;
+
+    
+    text-align: center;
+}
+span{ font-size: 100px;
+    
+}
+.olul :hover{
+    background-color: rgb(38, 255, 0);
+    color: rgb(149, 0, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div.myuniversty{
+   
+    float:left;
+    margin: 0.5px;
+    text-align: center;
+    border: 1px red;
+width:24.5%;
+height:80%;
+}
+div.myuniversty img{
+    width: 100%;
+    height: 300PX;
+}
+div.myuniversty#a{
+    background-color: #00ffff9b;
+}
+div.myuniversty#b{
+background-color: #ffffff;
+}
+div.myuniversty#c{
+    background-color: #00ffff9b;
+}
+div.myuniversty#d{
+    background-color: #ffffff;
+}
+.namesectionid{
+    background-color: #000000;
+    color: #ffffff;
+    width: 50%;
+    float: left;
+    height: 500px;
+    font-size: large;
+    text-align: center;
+}
+.olul#e{
+    text-align: left;
+    
+}
+.olul#w{
+    text-align: center;
+    
+}
+.olul#q{
+    text-align: right;
+    
+}
+div.myphotoforprofile{
+
+    text-align: center;
+    float: left;
+    
+    border: 1px;
+}
+div.myphotoforprofile#myfirstphoto{
+    background-color: #00ffff9b;
+   
+    width: 50%;
+
+    
+}
+
+
+div.myphotoforprofile#mysecoundphoto{
+    background-color: #378bcccc;
+   
+width: 50%;
+
+}
+
+div.myphotoforprofile#myfirstphoto:hover{
+    background-color: #d5ff009b;
+   
+    width: 50%;
+
+    
+}
+
+
+div.myphotoforprofile#mysecoundphoto:hover{
+    background-color: #bb37cccc;
+   
+width: 50%;
+
+}
+
+
